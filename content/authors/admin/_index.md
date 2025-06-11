@@ -119,13 +119,6 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -159,4 +152,10 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I joined the University of Glasgow in the autumn of 2023 as a PhD student in Geospatial Data Science. Prior to this, I earned a Master's degree in Applied Geographic Information Systems from the National University of Singapore and a Bachelor's degree in Geographic Information Science from Beijing Forestry University. My research experience includes work in the fields of urban built environments, walkability assessment, and urban vitality.
+
+My current research focuses on the application of Geographic Information Systems (GIS) and urban big data in spatial optimisation. I am dedicated to exploring the intersection of GIS technology and urban dynamics, aiming to contribute valuable insights to the field of geospatial data science.
+
+Research Interests:
+
+Geographical Information Science, Urban Analytics, Spatial Optimization, Geospatial Data Science, City and Regional Development.
