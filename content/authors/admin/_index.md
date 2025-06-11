@@ -10,8 +10,8 @@ first_name: Xinyan
 last_name: Xian
 
 # Status emoji
-# status:
-#   icon: 🍨
+status:
+  icon: 🍨
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,9 +20,9 @@ superuser: true
 role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: 
-#     url: https://www.example.com/
+organizations:
+  - name: 
+    url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -43,13 +43,13 @@ education:
   - area: PhD in Geospatial Data Science
     institution: University of Glasgow
     date_start: 2023-09
-    # date_end: 2020-12-31
+    date_end: 2020-12-31
     summary: |
       Optimizing the hybrid truck-drone delivery systems for medical supplies by integrating drones with traditional methods, enhancing efficiency, cost-effectiveness, and accessibility, especially in remote areas, while addressing operational trade-offs like payload limits and battery constraints.
 
-    # button:
-      # text: 'Read Thesis'
-      # url: 'https://example.com'
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: MSc in GIS
     institution: National University of Singapore
     date_start: 2022-08
