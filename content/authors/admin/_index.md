@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 冼欣颜
+title: 傻呗
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Da shabei
 
 # Full name (for SEO)
 first_name: Shiung Wu
