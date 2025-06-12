@@ -83,23 +83,15 @@ help:
 
 
 
-# Research
-skills:
-  - area: PhD in Geospatial Data Science
-    institution: University of Glasgow
-    date_start: 2023-09-01
-    date_end: ''
-    summary: |    
-
-
-
 # Awards
 awards:
-  - area: PhD in Geospatial Data Science
-    institution: University of Glasgow
-    date_start: 2023-09-01
-    date_end: ''
-    summary: |    
+  - title: 32nd ACM SIGSPATIAL International Conference on SIGSPATIAL Advances in Geographic Information Systems (ACM SIGSPATIAL 2024) - GISCup 2024 Top 3 Award, 2024
+    url: hhttps://www.ubdc.ac.uk/news/ubdc-team-win-a-top-award-at-the-acm-sigspatial-conference
+    date: '2024-10
+    awarder: 
+    icon: 
+    summary: |
+        
 
 ---
 

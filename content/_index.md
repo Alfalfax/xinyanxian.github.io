@@ -1,5 +1,5 @@
 ---
-title: 'Zhimeng'
+title: 'Xinyan'
 date: 2023-10-24
 type: landing
 
@@ -34,7 +34,7 @@ sections:
 
   - block: experience
     content:
-      title: New
+      # title: New
       username: admin
     design:
       # Hugo date format
@@ -42,18 +42,14 @@ sections:
       # Education or Experience section first?
       is_education_first: true
 
-  - block: skills
-    content:
-      title: Research
-      username: admin
 
   - block: awards
     content:
-      title: Awards
+      title: Research
       username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: true
+    # design:
+    #   # Hugo date format
+    #   date_format: 'January 2006'
+    #   # Education or Experience section first?
+    #   is_education_first: true
 ---
