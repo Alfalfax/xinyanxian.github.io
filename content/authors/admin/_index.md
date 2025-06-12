@@ -60,26 +60,6 @@ education:
     date_end: 2022-06-30
     summary: |
 
-help:
-  - area: PhD in Geospatial Data Science
-    institution: University of Glasgow
-    date_start: 2023-09-01
-    date_end: ''
-    summary: |    
-
-  - area: MSc in GIS
-    institution: National University of Singapore
-    date_start: 2022-08-01
-    date_end: 2023-08-31
-    summary: |
-      Distinction
-
-  - area: BSc in GIS
-    institution: Beijing Forestry University
-    date_start: 2018-09-01
-    date_end: 2022-06-30
-    summary: |
-
 
 
 
