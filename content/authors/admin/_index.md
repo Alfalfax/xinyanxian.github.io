@@ -62,7 +62,7 @@ education:
 
 # Research
 # Add your own SVG icons to `assets/media/icons/`
-research:
+skills:
   - area: PhD in Geospatial Data Science
     institution: University of Glasgow
     date_start: 2023-09-01
@@ -71,7 +71,7 @@ research:
 
 
 
-# Awards.
+# Awards
 awards:
   - area: PhD in Geospatial Data Science
     institution: University of Glasgow
