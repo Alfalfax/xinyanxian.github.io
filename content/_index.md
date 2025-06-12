@@ -24,6 +24,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
+      title: Education
       username: admin
     design:
       # Hugo date format

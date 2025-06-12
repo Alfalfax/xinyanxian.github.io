@@ -59,7 +59,7 @@ education:
     date_start: 2018-09-01
     date_end: 2022-06-30
     summary: |
-# Research
+
 help:
   - area: PhD in Geospatial Data Science
     institution: University of Glasgow
@@ -93,13 +93,13 @@ skills:
 
 
 
-# # Awards
-# awards:
-#   - area: PhD in Geospatial Data Science
-#     institution: University of Glasgow
-#     date_start: 2023-09-01
-#     date_end: ''
-#     summary: |    
+# Awards
+awards:
+  - area: PhD in Geospatial Data Science
+    institution: University of Glasgow
+    date_start: 2023-09-01
+    date_end: ''
+    summary: |    
 
 ---
 
