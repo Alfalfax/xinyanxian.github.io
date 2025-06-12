@@ -39,6 +39,7 @@ profiles:
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
 
+# Education
 education:
   - area: PhD in Geospatial Data Science
     institution: University of Glasgow
@@ -67,7 +68,6 @@ skills:
     date_start: 2023-09-01
     date_end: ''
     summary: |    
-
 
 
 # Awards
