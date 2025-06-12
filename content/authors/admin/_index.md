@@ -70,6 +70,7 @@ skills:
     summary: |    
 
 
+
 # Awards
 awards:
   - area: PhD in Geospatial Data Science

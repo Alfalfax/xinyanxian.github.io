@@ -22,7 +22,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: education
+  - block: experience
     content:
       username: admin
     design:
@@ -30,11 +30,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  - block: skills
+  - block: skills1
     content:
       title: Research
       username: admin
-    
   - block: awards
     content:
       title: Awards
