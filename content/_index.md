@@ -30,9 +30,9 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  - block: skills
+  - block: research
     content:
-      title: Skills
+      title: Research
       username: admin
   - block: awards
     content:
