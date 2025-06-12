@@ -87,8 +87,8 @@ help:
 awards:
   - title: 32nd ACM SIGSPATIAL International Conference on SIGSPATIAL Advances in Geographic Information Systems (ACM SIGSPATIAL 2024) - GISCup 2024 Top 3 Award, 2024
     url: hhttps://www.ubdc.ac.uk/news/ubdc-team-win-a-top-award-at-the-acm-sigspatial-conference
-    date: '2024-10'
-    awarder: 
+    date: '2024-10-10'
+    awarder: Xinyan Xian
     icon: 
     summary: |
         
