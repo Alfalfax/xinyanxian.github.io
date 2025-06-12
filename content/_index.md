@@ -1,5 +1,5 @@
-<!-- ---
-title: 'Home'
+---
+title: 'Zhimeng'
 date: 2023-10-24
 type: landing
 
@@ -22,7 +22,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
+  - block: education
     content:
       username: admin
     design:
@@ -30,13 +30,22 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  - block: skills
+
+  - block: research
     content:
-      title: Research
       username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
+  # - block: skills
+  #   content:
+  #     title: Research
+  #     username: admin
     
   - block: awards
     content:
       title: Awards
       username: admin
---- -->
+---
