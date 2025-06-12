@@ -61,7 +61,6 @@ education:
 
 
 # Research
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - area: PhD in Geospatial Data Science
     institution: University of Glasgow
