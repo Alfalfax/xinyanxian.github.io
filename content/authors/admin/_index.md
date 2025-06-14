@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'x.xian.1@research.gla.ac.uk'
+    url: 'mailto:x.xian.1@research.gla.ac.uk'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -66,7 +66,7 @@ education:
 # Awards
 awards:
   - title: 32nd ACM SIGSPATIAL International Conference on SIGSPATIAL Advances in Geographic Information Systems (ACM SIGSPATIAL 2024) - GISCup 2024 Top 3 Award, 2024
-    url: hhttps://www.ubdc.ac.uk/news/ubdc-team-win-a-top-award-at-the-acm-sigspatial-conference
+    url: https://www.ubdc.ac.uk/news/ubdc-team-win-a-top-award-at-the-acm-sigspatial-conference
     date: '2024-10-10'
     awarder: Xinyan Xian
     icon: 
